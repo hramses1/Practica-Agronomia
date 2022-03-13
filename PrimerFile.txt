@@ -1,0 +1,6 @@
+Esta es mi primera linea en la file 
+ Esta es mi segunda linea en la file 
+ Esta es mi tercera linea en la file 
+ Esta es mi cuarta linea en la file 
+ Total de linea escritas 4 
+ Esta es una linea nueva, osea en la linia 5
